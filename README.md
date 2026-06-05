@@ -1,2 +1,7 @@
-# my-second-project
-我的第二个GitHub项目（练习）
+# 我的第二个GitHub项目（练习）
+这是我学习GitHub的第二个仓库！
+
+## 今天学到了什么
+- 什么是存储库（Repository）
+- 如何创建一个新仓库
+- 如何提交修改
